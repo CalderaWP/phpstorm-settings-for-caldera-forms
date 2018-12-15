@@ -7,6 +7,7 @@
       <mapping pattern="getAllFromWordPress" type="PLAIN_TEXT" />
       <mapping pattern="apiWithTokenCheck" type="PLAIN_TEXT" />
       <mapping pattern="DOCKERFILE" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
