@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="getCachedPages" type="PLAIN_TEXT" />
       <mapping pattern="EntryListTest" type="PLAIN_TEXT" />
       <mapping pattern="body-parser" type="PLAIN_TEXT" />
       <mapping pattern="getAllFromWordPress" type="PLAIN_TEXT" />
