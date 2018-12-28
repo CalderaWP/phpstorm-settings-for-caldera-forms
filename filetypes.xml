@@ -5,9 +5,11 @@
       <mapping pattern="EntryListTest" type="PLAIN_TEXT" />
       <mapping pattern="body-parser" type="PLAIN_TEXT" />
       <mapping pattern="getAllFromWordPress" type="PLAIN_TEXT" />
+      <mapping pattern="test-integration" type="PLAIN_TEXT" />
       <mapping pattern="apiWithTokenCheck" type="PLAIN_TEXT" />
       <mapping pattern="DOCKERFILE" type="PLAIN_TEXT" />
       <mapping pattern="test-packages" type="PLAIN_TEXT" />
+      <mapping pattern="package-fixes" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
     </extensionMap>
