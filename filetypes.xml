@@ -8,6 +8,7 @@
       <mapping pattern="test-integration" type="PLAIN_TEXT" />
       <mapping pattern="apiWithTokenCheck" type="PLAIN_TEXT" />
       <mapping pattern="DOCKERFILE" type="PLAIN_TEXT" />
+      <mapping pattern="index" type="PLAIN_TEXT" />
       <mapping pattern="test-packages" type="PLAIN_TEXT" />
       <mapping pattern="package-fixes" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
