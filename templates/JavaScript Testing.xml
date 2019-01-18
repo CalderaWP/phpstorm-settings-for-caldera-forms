@@ -19,4 +19,7 @@
   <template name="bf" value="before(() =&gt; {&#10;  $END$&#10;});" description="Inserts before() block" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
+  <template name="snapshot" value="&#10;it('should $NAME$', () =&gt;{&#10;    const component = renderer.create(&#10;        &lt;div&gt;HiRoy&lt;div&gt;&#10;    );&#10;    expect(component.toJSON()).toMatchSnapshot();&#10;    $END$&#10;}); &#10;&#10;&#10;" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
 </templateSet>
