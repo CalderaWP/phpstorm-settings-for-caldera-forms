@@ -3,4 +3,9 @@
     <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(filenameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="importReact" value="import React, { useState } from 'react';&#10;import PropTypes from 'prop-types';&#10;import classNames from 'classnames';" description="Import React, useState, propTypes and classNames" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
+    </context>
+  </template>
 </templateSet>
