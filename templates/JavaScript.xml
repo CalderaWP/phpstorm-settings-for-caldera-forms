@@ -1,0 +1,7 @@
+<templateSet group="JavaScript">
+  <template name="arf" value="export const $END$ = () =&gt; {&#10;  $END$&#10;}" description="Arrow function" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
