@@ -15,6 +15,7 @@
       <mapping pattern="package-fixes" type="PLAIN_TEXT" />
       <mapping pattern="nullMock" type="PLAIN_TEXT" />
       <mapping pattern="getScreenshot" type="PLAIN_TEXT" />
+      <mapping ext="pattern" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
