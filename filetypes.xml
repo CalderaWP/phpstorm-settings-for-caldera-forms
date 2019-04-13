@@ -10,6 +10,7 @@
       <mapping pattern="apiWithTokenCheck" type="PLAIN_TEXT" />
       <mapping pattern="DOCKERFILE" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
+      <mapping pattern="FormToggle.js" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="test-packages" type="PLAIN_TEXT" />
       <mapping pattern="action-a/Dockerfile" type="PLAIN_TEXT" />
